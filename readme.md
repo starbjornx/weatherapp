@@ -2,6 +2,8 @@
 
 ## Description
 
+Easy to use and quick to find out about the current and upcoming weather reports where you live!
+
 ## Installation
 
 no installtion needed, just a web browser which most phones have. go to the following website address https://starbjornx.github.io/weatherapp/ and follow How to instructions!
@@ -12,7 +14,19 @@ search for a city and hit submit you will find results for the current day and t
 
 ## Credit
 
-Kyle Henriksen
+# Kyle Henriksen - Details
+
+## Github
+
+Github Profile: [Kyle Henriksen's - Github Profile](htpps://starbjornx.github/)
+
+Email : khenriksenbootcamp@gmail.com
+
+## Project Details
+
+Website : https://starbjornx.github.io/weatherapp/
+
+Repository : https://github.com/starbjornx/weatherapp
 
 ## Comments
 
